@@ -1494,6 +1494,11 @@ a.project-buton1 {
         top: 556px;
     }
 
+        .about-button {
+        margin-top: 336px;
+    }
+
+
     .line1::after {
         position: absolute;
         content: "";
