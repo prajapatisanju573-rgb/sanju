@@ -1494,11 +1494,10 @@ a.project-buton1 {
         top: 556px;
     }
 
-    .devvv {
-        color: #9f9f9f;
-        font-size: 22px;
+    a.devvv {
         text-decoration: none;
-        color: white;
+        font-size: 15px;
+        color: red;
     }
 
     .line1::after {
