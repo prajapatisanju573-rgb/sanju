@@ -1491,6 +1491,16 @@ a.project-buton1 {
         top: 556px;
     }
 
+    .honey{
+            padding-left: 6px;
+    font-weight: 400;
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+    color: #9f9f9f;
+        font-size: 16px;
+    }
+
         .line1::after {
         position: absolute;
         content: "";
