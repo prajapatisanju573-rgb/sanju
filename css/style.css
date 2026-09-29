@@ -1426,13 +1426,12 @@ a.project-buton1 {
     }
 
 
-    .about-button a {
+       .about-button a {
         width: 56%;
         text-decoration: none;
         background-color: #FF014F;
         padding: 20px 30px;
-        font-size: 18px;
-        
+        font-size: 19px;
     }
 
         .about-emailtest p1 a {
