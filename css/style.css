@@ -1382,16 +1382,54 @@ a.project-buton1 {
         padding-right: 0px;
     }
 
-        .contact-content1 {
-        width: 100%;
-        float: left;
-        padding-right: 136px;
-    }
+   .contact-content1 {
+    width: 100%;
+    float: left;
+    padding-left: 36px;
+    padding-right: 40px;
+}
 
+    .contact-content2 {
+    width: 100%;
+    float: left;
+    padding-left: 36px;
+    padding-right: 41px;
+}
+
+.contact-content3 span a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 0px;
+    color: #FF014F;
+    font-weight: 500;
+}
+
+.contact-content2 span a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 0px;
+    color: #FF014F;
+    font-weight: 500;
+}
+
+.contact-content1 span a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 0px;
+    color: #FF014F;
+    font-weight: 500;
+}
+
+.contact-content3 {
+    width: 100%;
+    float: left;
+    padding-left: 36px;
+    padding-right: 46px;
+}
 
         .contact-content3 h3 a {
         font-size: 20px;
-        padding-right: 90px;
+        padding-right: 0px;
     }
 
        .contact-content h3 a {
