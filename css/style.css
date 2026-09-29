@@ -1375,11 +1375,19 @@ a.project-buton1 {
         padding-right: 56px;
     }
 
-     .contact-content1 {
-    width: 100%;
-    float: left;
-    padding-right: 136px;
-}
+       .contact-content1 h3 a {
+        text-decoration: none;
+        font-size: 20px;
+        padding-top: 0px;
+        padding-right: 0px;
+    }
+
+        .contact-content1 {
+        width: 100%;
+        float: left;
+        padding-right: 136px;
+    }
+
 
         .contact-content3 h3 a {
         font-size: 20px;
