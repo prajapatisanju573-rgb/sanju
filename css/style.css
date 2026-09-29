@@ -1418,6 +1418,28 @@ a.project-buton1 {
         padding-right: 86px;
     }
 
+        .skills-sectionimg img {
+        width: 90px;
+        height: 92px;
+        object-fit: contain;
+        float: left;
+    }
+
+
+    .about-button a {
+        width: 56%;
+        text-decoration: none;
+        background-color: #FF014F;
+        padding: 20px 30px;
+        font-size: 18px;
+        
+    }
+
+        .about-emailtest p1 a {
+        color: #9f9f9f;
+        font-size: 16px;
+    }
+
         .contact-content2 h3 a {
         font-size: 14px;
     }
