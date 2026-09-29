@@ -1396,6 +1396,11 @@ a.project-buton1 {
     padding-right: 41px;
 }
 
+     .contact-content3 h3 a {
+        font-size: 20px;
+        padding-right: 0px;
+    }
+
 .contact-content3 span a {
     text-decoration: none;
     font-size: 20px;
@@ -1427,10 +1432,7 @@ a.project-buton1 {
     padding-right: 46px;
 }
 
-        .contact-content3 h3 a {
-        font-size: 20px;
-        padding-right: 0px;
-    }
+   
 
        .contact-content h3 a {
         text-decoration: none;
