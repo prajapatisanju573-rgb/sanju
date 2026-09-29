@@ -1494,12 +1494,6 @@ a.project-buton1 {
         top: 556px;
     }
 
-    a.devvv {
-        text-decoration: none;
-        font-size: 15px;
-        color: red;
-    }
-
     .line1::after {
         position: absolute;
         content: "";
