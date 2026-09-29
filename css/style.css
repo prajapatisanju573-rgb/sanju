@@ -1404,11 +1404,48 @@ a.project-buton1 {
 }
 
 @media screen and (max-width:576px) {
-        .contact-content h3 a {
+   .contact-content h3 a {
         text-decoration: none;
-        font-size: 18px;
+        font-size: 20px;
         padding-top: 0px;
-        padding-right: 20px;
+        padding-right: 40px;
+    }
+
+        .contact-content1 h3 a {
+        text-decoration: none;
+        font-size: 20px;
+        padding-top: 0px;
+        padding-right: 86px;
+    }
+
+        .contact-content2 h3 a {
+        font-size: 14px;
+    }
+
+    .contact-content3 h3 a {
+        font-size: 20px;
+        padding-right: 72px;
+    }
+
+        .experience-test1 {
+        width: 100%;
+        float: left;
+        height: 1230px;
+        padding-top: 556px;
+    }
+
+        .experience-test1::before {
+        top: 556px;
+    }
+
+        .line1::after {
+        position: absolute;
+        content: "";
+        top: 548px;
+    }
+
+    .contact-icon i {
+        display: none;
     }
 }
 
