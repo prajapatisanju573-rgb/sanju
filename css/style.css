@@ -1434,6 +1434,28 @@ a.project-buton1 {
         font-size: 19px;
     }
 
+        .bannerimg {
+        width: 313px;
+        float: left;
+        padding-top: 0px;
+    }
+
+        .bannertext {
+        float: left;
+        padding-left: 0px;
+        padding-top: 34px;
+    }
+
+        .banner {
+        width: 100%;
+        float: left;
+        position: relative;
+        display: flex;
+        flex-direction: column-reverse;
+        padding: 50px 0px 39px 0px;
+        padding-left: 20px;
+    }
+
         .about-emailtest p1 a {
         color: #9f9f9f;
         font-size: 16px;
