@@ -1375,66 +1375,66 @@ a.project-buton1 {
         padding-right: 56px;
     }
 
-       .contact-content1 h3 a {
+    .contact-content1 h3 a {
         text-decoration: none;
         font-size: 20px;
         padding-top: 0px;
         padding-right: 0px;
     }
 
-   .contact-content1 {
-    width: 100%;
-    float: left;
-    padding-left: 36px;
-    padding-right: 40px;
-}
+    .contact-content1 {
+        width: 100%;
+        float: left;
+        padding-left: 36px;
+        padding-right: 40px;
+    }
 
     .contact-content2 {
-    width: 100%;
-    float: left;
-    padding-left: 36px;
-    padding-right: 41px;
-}
+        width: 100%;
+        float: left;
+        padding-left: 36px;
+        padding-right: 41px;
+    }
 
-     .contact-content3 h3 a {
+    .contact-content3 h3 a {
         font-size: 20px;
         padding-right: 0px;
     }
 
-.contact-content3 span a {
-    text-decoration: none;
-    font-size: 20px;
-    padding-left: 0px;
-    color: #FF014F;
-    font-weight: 500;
-}
+    .contact-content3 span a {
+        text-decoration: none;
+        font-size: 20px;
+        padding-left: 0px;
+        color: #FF014F;
+        font-weight: 500;
+    }
 
-.contact-content2 span a {
-    text-decoration: none;
-    font-size: 20px;
-    padding-left: 0px;
-    color: #FF014F;
-    font-weight: 500;
-}
+    .contact-content2 span a {
+        text-decoration: none;
+        font-size: 20px;
+        padding-left: 0px;
+        color: #FF014F;
+        font-weight: 500;
+    }
 
-.contact-content1 span a {
-    text-decoration: none;
-    font-size: 20px;
-    padding-left: 0px;
-    color: #FF014F;
-    font-weight: 500;
-}
+    .contact-content1 span a {
+        text-decoration: none;
+        font-size: 20px;
+        padding-left: 0px;
+        color: #FF014F;
+        font-weight: 500;
+    }
 
-.contact-content3 {
-    width: 100%;
-    float: left;
-    padding-left: 36px;
-    padding-right: 46px;
-}
+    .contact-content3 {
+        width: 100%;
+        float: left;
+        padding-left: 36px;
+        padding-right: 46px;
+    }
 
-   
 
-       .contact-content h3 a {
+
+    .contact-content h3 a {
         text-decoration: none;
         font-size: 20px;
         padding-top: 0px;
@@ -1442,7 +1442,7 @@ a.project-buton1 {
     }
 
 
-       .contact-content2 h3 a {
+    .contact-content2 h3 a {
         font-size: 16px;
     }
 
@@ -1541,7 +1541,7 @@ a.project-buton1 {
         top: 556px;
     }
 
-        .about-button {
+    .about-button {
         margin-top: 336px;
     }
 
