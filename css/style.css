@@ -1391,7 +1391,7 @@ a.project-buton1 {
         text-decoration: none;
         font-size: 20px;
         padding-top: 0px;
-        padding-right: 60px;
+        padding-right: 60px !important;
     }
 
 
