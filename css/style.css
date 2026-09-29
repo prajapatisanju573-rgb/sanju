@@ -1361,32 +1361,33 @@ a.project-buton1 {
     }
 
     .contact-icon i {
-    float: right;
-    font-size: 20px;
-    color: white;
-    padding-right: 16px;
-    padding-top: 14px;
-}
+        float: right;
+        font-size: 20px;
+        color: white;
+        padding-right: 16px;
+        padding-top: 14px;
+    }
 
-      .contact-content h3 a {
+    .contact-content h3 a {
         text-decoration: none;
         font-size: 16px;
         padding-top: 0px;
         padding-right: 56px;
     }
-      .contact-content1 h3 a {
+
+    .contact-content1 h3 a {
         text-decoration: none;
         font-size: 18px;
         padding-top: 0px;
         padding-right: 124px;
     }
 
-        .contact-content3 h3 a {
+    .contact-content3 h3 a {
         font-size: 18px;
         padding-right: 112px;
     }
 
-        .contact-content h3 a {
+    .contact-content h3 a {
         text-decoration: none;
         font-size: 18px;
         padding-top: 0px;
@@ -1397,6 +1398,7 @@ a.project-buton1 {
         font-size: 17px;
         padding-left: 16px;
     }
+
     .contact {
         padding: 50px 4px 22px 4px;
         background-color: #141414;
@@ -1404,21 +1406,21 @@ a.project-buton1 {
 }
 
 @media screen and (max-width:576px) {
-   .contact-content h3 a {
+    .contact-content h3 a {
         text-decoration: none;
         font-size: 20px;
         padding-top: 0px;
         padding-right: 40px;
     }
 
-        .contact-content1 h3 a {
+    .contact-content1 h3 a {
         text-decoration: none;
         font-size: 20px;
         padding-top: 0px;
         padding-right: 86px;
     }
 
-        .skills-sectionimg img {
+    .skills-sectionimg img {
         width: 90px;
         height: 92px;
         object-fit: contain;
@@ -1434,19 +1436,19 @@ a.project-buton1 {
         font-size: 19px;
     }
 
-        .bannerimg {
+    .bannerimg {
         width: 313px;
         float: left;
         padding-top: 0px;
     }
 
-        .bannertext {
+    .bannertext {
         float: left;
         padding-left: 0px;
         padding-top: 34px;
     }
 
-        .banner {
+    .banner {
         width: 100%;
         float: left;
         position: relative;
@@ -1459,19 +1461,20 @@ a.project-buton1 {
     .about-sctiontest h2 {
         font-size: 30px;
     }
-        .about-sctiontest p {
+
+    .about-sctiontest p {
         font-size: 18px;
         line-height: 34px;
         padding: 36px 1px 34px 0px;
         border-bottom: 1px solid rgb(35 35 35);
     }
 
-         .about-emailtest .honnn a {
+    .about-emailtest .honnn a {
         color: #9f9f9f;
         font-size: 15px;
     }
 
-        .contact-content2 h3 a {
+    .contact-content2 h3 a {
         font-size: 14px;
     }
 
@@ -1480,28 +1483,23 @@ a.project-buton1 {
         padding-right: 72px;
     }
 
-        .experience-test1 {
+    .experience-test1 {
         width: 100%;
         float: left;
         height: 1230px;
         padding-top: 556px;
     }
 
-        .experience-test1::before {
+    .experience-test1::before {
         top: 556px;
     }
 
-    .honey{
-            padding-left: 6px;
-    font-weight: 400;
-    display: inline-block;
-    border: none;
-    text-decoration: none;
-    color: #9f9f9f;
-        font-size: 16px;
+      .devvv {
+        color: #9f9f9f;
+        font-size: 22px;
     }
 
-        .line1::after {
+    .line1::after {
         position: absolute;
         content: "";
         top: 548px;
